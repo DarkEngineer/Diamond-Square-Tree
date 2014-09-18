@@ -1,4 +1,4 @@
-World-of-Dark
+Diamond Square JS 2D
 =============
 
-Project of new HTML5 Canvas application
+Diamond algorithm for 2d maps
